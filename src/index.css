@@ -1,0 +1,18 @@
+body {
+  background-image: url("./assets/img/background-dark.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  /* font-family: 'eras-font';*/
+  font-family: "eras-book-font";
+  letter-spacing: 2px;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-size: inherit;
+  background-color: #09193a;
+}
+
+code {
+  font-family: "eras-book-font", "eras-font";
+}
