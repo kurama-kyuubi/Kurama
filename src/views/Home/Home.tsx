@@ -18,13 +18,13 @@ const Home: React.FC = () => {
           <StyledChild>
             <Balances />
             <PageHeaderFront
-              title="MASTER YIELDS!"
-              subtitle="Stake BUSD LP tokens to collect MYFI!"
+              title="HENSHIN FINANCE!"
+              subtitle="Stake BUSD LP tokens to collect HENSHIN!"
             />
             <StyledButtons>
               <Button text="Unlock Wallet" to="/farms" variant="primary" />
               <Spacer size="lg" />
-              <Button text="Enter xMYFI" to="/farms" variant="tertiary" />
+              <Button text="Enter xHENSHIN" to="/farms" variant="tertiary" />
             </StyledButtons>
           </StyledChild>
           <StyledChild>
